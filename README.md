@@ -28,6 +28,14 @@
 ![VMware](https://img.shields.io/badge/VMware-607078?logo=vmware&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white)
 
+#### ☁️ Cloud & AI
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-000000?logo=openai&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?logo=tensorflow&logoColor=orange)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-003366?logo=pytorch&logoColor=orange)
+
+
 #### ⚙️ Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
